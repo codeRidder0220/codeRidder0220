@@ -1,4 +1,4 @@
-<h1 style="color:grey;"> Hi, itz me Real codeRidder <img src="https://slackmojis.com/emojis/48484-black-skull/download" width="50"></img></h1>
+<h1 style="color:blue"> Hi, itz me Real codeRidder <img src="https://slackmojis.com/emojis/48484-black-skull/download" width="50"></img></h1>
 
 
 
