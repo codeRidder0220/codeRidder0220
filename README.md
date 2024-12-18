@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, itz me Real codeRidder
+
+
 
 <!--
 **codeRidder0220/codeRidder0220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
