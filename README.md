@@ -1,4 +1,4 @@
-## Hi, itz me Real codeRidder
+## Hi, itz me Real codeRidder <img src="https://slackmojis.com/emojis/7421-typingcat/download"></img>
 
 
 
