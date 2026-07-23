@@ -91,7 +91,7 @@ Next.js
 
 <p align="left">
 
-<a href="https://github.com/codeRidder" target="_blank">
+<a href="https://github.com/codeRidder0220" target="_blank">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
