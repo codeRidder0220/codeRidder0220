@@ -99,13 +99,7 @@ Next.js
 
 ---
 
-# 📊 GitHub Analytics
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=codeRidder&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=12" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeRidder&layout=compact&theme=midnight-purple&hide_border=true&border_radius=12" />
-</p>
 
----
 
 # 🚀 My Learning Journey
 
