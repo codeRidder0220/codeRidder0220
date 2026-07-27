@@ -19,7 +19,7 @@
 ###  About Me
  
 -  Currently learning **Full Stack Development**  
--  Practicing **DSA** in C++  
+-  Practicing **DSA Questions** in C++  
 -  Comfortable with **C++ → Web Dev → JavaScript → React**  
 -  Currently building projects to apply what I learn  
 ---
