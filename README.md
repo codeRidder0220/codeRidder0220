@@ -2,7 +2,7 @@
 <tr>
 <td width="65%">
 
-# Hi there, I'm Ankit
+# Hi there, I'm Ankit Singh
 
 ### Full Stack Developer (Learning) | DSA Enthusiast • India 🇮🇳
 
